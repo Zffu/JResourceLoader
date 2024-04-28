@@ -6,8 +6,10 @@
   <groupId>net.zffu</groupId>
   <artifactId>JResourceLoader</artifactId>
   <version>1.0.0</version>
+  <packaging>pom</packaging>
 
   <name>JResourceLoader</name>
   <url>https://github.com/zffu/Jresourceloader</url>
+
 
 </project>
